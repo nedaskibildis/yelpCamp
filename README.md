@@ -5,7 +5,9 @@ Yelp Camp is a large-scale full-stack web application developed as a part of a c
 Throughout the development of Yelp Camp, I have gained proficiency in the following technologies and areas:
 
 **HTML5:** Building the structure and layout of web pages.
+
 **CSS3:** Styling and enhancing the visual appearance of the application.
+
 **Responsive Design:** Ensuring optimal user experience across different devices and screen sizes.
 **JavaScript:** Implementing interactive functionality and enhancing user interactivity.
 **Asynchronous JavaScript:** Employing asynchronous programming techniques for seamless user interactions.

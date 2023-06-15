@@ -1,4 +1,4 @@
-#**Yelp Camp**#
+#**Yelp Camp**
 Yelp Camp is a large-scale full-stack web application developed as a part of a comprehensive coding boot camp on Udemy. This project was designed to provide an immersive learning experience in web development, encompassing various technologies and concepts.
 
 **Key Skills Acquired**

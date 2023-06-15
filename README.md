@@ -2,7 +2,8 @@
 Yelp Camp is a large-scale full-stack web application developed as a part of a comprehensive coding boot camp on Udemy. This project was designed to provide an immersive learning experience in web development, encompassing various technologies and concepts.
 
 <h3> **Key Skills Acquired** </h3>
-Throughout the development of Yelp Camp, I have gained proficiency in the following technologies and areas:
+Throughout the development of Yelp Camp, I have gained proficiency in the following technologies and areas:  
+  
 
 **HTML5:** Building the structure and layout of web pages.  
 **CSS3:** Styling and enhancing the visual appearance of the application.  
@@ -27,11 +28,11 @@ Throughout the development of Yelp Camp, I have gained proficiency in the follow
 **Maps and Geocoding:** Integrating maps and geocoding services to display campsite locations.  
 
 <h3> Project Overview </h3>
-Yelp Camp is a comprehensive full-stack application that enables users to create accounts and contribute information about various campsites. Users can add campsites to a map, where other users can discover and review them. The application offers the following key features:
+Yelp Camp is a comprehensive full-stack application that enables users to create accounts and contribute information about various campsites. Users can add campsites to a map, where other users can discover and review them. The application offers the following key features:  
 
-**User Registration:** Users can create accounts to gain access to the full functionality of the application.
-**Campsite Creation:** Users can add new campsites by providing details such as a title, location, description, and images.
-**Campsite Reviews:** Users can leave reviews and ratings for campsites, contributing to the overall user-generated content.
-**Campsite Management:** Users have the ability to update and delete campsites they have uploaded, ensuring control over their own content.
-**Security Measures:** The application incorporates robust security measures to prevent unauthorized access and protect user data.
-Yelp Camp serves as a hands-on project that encompasses various aspects of full-stack web development, offering an opportunity to apply and reinforce the acquired skills in a real-world scenario.
+**User Registration:** Users can create accounts to gain access to the full functionality of the application.  
+**Campsite Creation:** Users can add new campsites by providing details such as a title, location, description, and images.  
+**Campsite Reviews:** Users can leave reviews and ratings for campsites, contributing to the overall user-generated content.  
+**Campsite Management:** Users have the ability to update and delete campsites they have uploaded, ensuring control over their own content.  
+**Security Measures:** The application incorporates robust security measures to prevent unauthorized access and protect user data.  
+Yelp Camp serves as a hands-on project that encompasses various aspects of full-stack web development, offering an opportunity to apply and reinforce the acquired skills in a real-world scenario.  

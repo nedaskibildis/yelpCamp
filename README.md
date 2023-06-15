@@ -5,9 +5,7 @@ Yelp Camp is a large-scale full-stack web application developed as a part of a c
 Throughout the development of Yelp Camp, I have gained proficiency in the following technologies and areas:
 
 **HTML5:** Building the structure and layout of web pages.
-
 **CSS3:** Styling and enhancing the visual appearance of the application.
-
 **Responsive Design:** Ensuring optimal user experience across different devices and screen sizes.
 **JavaScript:** Implementing interactive functionality and enhancing user interactivity.
 **Asynchronous JavaScript:** Employing asynchronous programming techniques for seamless user interactions.
@@ -27,7 +25,8 @@ Throughout the development of Yelp Camp, I have gained proficiency in the follow
 **Cloud Databases:** Utilizing cloud-based database services for scalability and reliability.
 **Image Upload and Storage:** Allowing users to upload and store images associated with their campsites.
 **Maps and Geocoding:** Integrating maps and geocoding services to display campsite locations.
-Project Overview
+
+<h3> Project Overview </h3>
 Yelp Camp is a comprehensive full-stack application that enables users to create accounts and contribute information about various campsites. Users can add campsites to a map, where other users can discover and review them. The application offers the following key features:
 
 **User Registration:** Users can create accounts to gain access to the full functionality of the application.

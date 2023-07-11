@@ -29,6 +29,7 @@ module.exports.validateCampground = (req, res, next) => {
     }
 }
 
+// Middleware Function That Validates That The Person Creating Changes Is The Authour
 module.exports.isAuthor = async( req, res, next) => {
     const {id} = req.params
     const campground = await Campground.findById(id)

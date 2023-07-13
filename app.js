@@ -119,6 +119,6 @@ app.use((err, req, res, next) => {
 
 const port = process.env.PORT || 3000
 
-app.listen(PORT, () => {
+app.listen(port, () => {
     console.log(`serving on port ${PORT}`)
 })
